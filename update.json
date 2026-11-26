@@ -1,7 +1,7 @@
 {
     "version":  "1.2.378",
-    "url":  "https://raw.githubusercontent.com/frankqu1977/xc-pdf-reader-updates/main/XC_PDF_Reader_1.2.378.zip",
-    "sha256":  "fc7f067911139b4cf4a66c54f8b033de2e4e113bf19eb9f5a69f38a465bcde88",
-    "size":  22956182,
+    "url":  "https://frankqu1977.github.io/xc-pdf-reader-updates/XC_PDF_Reader_1.2.378.zip",
+    "sha256":  "8f02f243f027fadba6bb7cef69adb3f17e9f123bed7aca3ae182b32579521e7c",
+    "size":  22956215,
     "notes":  "新增 GitHub 在线更新：帮助菜单与状态栏检查、SHA256 校验、下载后覆盖安装并重启；修复更新包文件句柄未释放导致的改名失败。"
 }
