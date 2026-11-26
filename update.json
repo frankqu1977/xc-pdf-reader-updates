@@ -1,7 +1,7 @@
 {
-  "version": "1.2.385",
-  "url": "https://frankqu1977.github.io/xc-pdf-reader-updates/XC_PDF_Reader_1.2.385.zip",
-  "sha256": "d34bef2195d14ceb81ac7864cd908d142248d827cf54abed6c5a46cb625b72e3",
-  "size": 23249534,
-  "notes": "Fix OCR column selection, English UI leftovers, and AI preset display names."
+  "version": "1.2.386",
+  "url": "https://frankqu1977.github.io/xc-pdf-reader-updates/XC_PDF_Reader_1.2.386.zip",
+  "sha256": "33243d1999133e509077c8d69d8fbc7d6c06d977483b9421f585721987f7f448",
+  "size": 23250644,
+  "notes": "Full package V1.2.386"
 }
