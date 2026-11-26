@@ -1,7 +1,7 @@
 {
-  "version": "1.2.379",
-  "url": "https://frankqu1977.github.io/xc-pdf-reader-updates/XC_PDF_Reader_1.2.379.zip",
-  "sha256": "c472ff06ccfb04a62c64d5cad94029586a78ee3340ffbe8d9c0dc89ad3a303e6",
-  "size": 23227161,
-  "notes": "定版 1.2.379：浅色主题降白、检查更新窗口按钮收进右侧竖排、文档属性居中、默认偏好固化。"
+  "version": "1.2.380",
+  "url": "https://frankqu1977.github.io/xc-pdf-reader-updates/XC_PDF_Reader_1.2.380.zip",
+  "sha256": "410685df99b9147d4a99f1c036932f0767722d4345b432fd12fb635e11a9c11e",
+  "size": 23233617,
+  "notes": "界面精修与 Type1 子集字体文本修复：右键菜单重排、双页图标更新；修复部分中文 PDF 复制、搜索、划词翻译乱码。"
 }
