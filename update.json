@@ -1,7 +1,7 @@
 {
-  "version": "1.2.384",
-  "url": "https://frankqu1977.github.io/xc-pdf-reader-updates/XC_PDF_Reader_1.2.384.zip",
-  "sha256": "d877562df9b8b777f2fc740720b06d6cf8cf4e94865b80be871ee13463a2adf6",
-  "size": 23244807,
-  "notes": "1.2.384 修复：① 第三方灰色斜排矢量水印可识别并可删除（不再只扫文本对象）；② OCR 可搜索 PDF 的文字层按真实字宽对齐，行尾选区不再提前结束。另含 1.2.383 累积修复。"
+  "version": "1.2.385",
+  "url": "https://frankqu1977.github.io/xc-pdf-reader-updates/XC_PDF_Reader_1.2.385.zip",
+  "sha256": "d34bef2195d14ceb81ac7864cd908d142248d827cf54abed6c5a46cb625b72e3",
+  "size": 23249534,
+  "notes": "Fix OCR column selection, English UI leftovers, and AI preset display names."
 }
