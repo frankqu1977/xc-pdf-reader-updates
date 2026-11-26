@@ -1,7 +1,7 @@
 {
-  "version": "1.2.381",
-  "url": "https://frankqu1977.github.io/xc-pdf-reader-updates/XC_PDF_Reader_1.2.381.zip",
-  "sha256": "af753abae89d0d503e0dbb344514fba8fa857528ea0b9cf97ec6a00b1b3cac56",
-  "size": 23234086,
-  "notes": "修复视觉选区复制 / 划词翻译仍乱码、两行选区漏字：拖选改用修复后的文本层，字体级检测不再依赖控制字符，零宽空格与修复字符也能正确进入选区。"
+    "version":  "1.2.382",
+    "url":  "https://frankqu1977.github.io/xc-pdf-reader-updates/XC_PDF_Reader_1.2.382.zip",
+    "sha256":  "7cd963a0973e5f97f7c6298b466242a1b143aa32370f2b3b9eaa0b667fd02507",
+    "size":  22969951,
+    "notes":  "修复便携版在线更新未覆盖旧版本；新版本号改为绿色。"
 }
