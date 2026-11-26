@@ -1,7 +1,7 @@
 {
   "version": "1.2.379",
   "url": "https://frankqu1977.github.io/xc-pdf-reader-updates/XC_PDF_Reader_1.2.379.zip",
-  "sha256": "bd1095966951b7041480ab244748e3e7bcc9173f964d66ace0a8f21984c833f5",
-  "size": 23227026,
-  "notes": "定版 1.2.379：浅色主题降白、检查更新窗口精简、文档属性居中、默认偏好固化。"
+  "sha256": "c472ff06ccfb04a62c64d5cad94029586a78ee3340ffbe8d9c0dc89ad3a303e6",
+  "size": 23227161,
+  "notes": "定版 1.2.379：浅色主题降白、检查更新窗口按钮收进右侧竖排、文档属性居中、默认偏好固化。"
 }
