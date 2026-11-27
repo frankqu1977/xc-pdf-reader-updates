@@ -1,7 +1,7 @@
 {
-  "version": "1.2.386",
-  "url": "https://frankqu1977.github.io/xc-pdf-reader-updates/XC_PDF_Reader_1.2.386.zip",
-  "sha256": "33243d1999133e509077c8d69d8fbc7d6c06d977483b9421f585721987f7f448",
-  "size": 23250644,
-  "notes": "Full package V1.2.386"
+  "version": "1.2.399",
+  "url": "https://frankqu1977.github.io/xc-pdf-reader-updates/XC_PDF_Reader_1.2.399.zip",
+  "sha256": "3433d5db01a3dd70183cc325a68779a0dd61a270ea9c41de77e8fb496bac6fc3",
+  "size": 23891017,
+  "notes": "V1.2.399 正式版：启动/打印/选区修复与内存回收；详见 README 和更新日志。"
 }
