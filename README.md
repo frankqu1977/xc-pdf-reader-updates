@@ -16,8 +16,9 @@ XC PDF Reader 把阅读、检索、批注、表单、OCR、翻译和打印放进
 | 便携版 | `XC_PDF_Reader_1.2.399_Portable_Net481.zip` | 解压即用，不写安装目录，适合 U 盘或受控环境 |
 | 在线更新包 | `XC_PDF_Reader_1.2.399.zip` | 阅读器内置“检查更新”使用，也可手动覆盖便携目录 |
 
-- 最新发布页：<https://github.com/frankqu1977/xc-pdf-reader-updates/releases/latest>
 - 在线更新清单：<https://frankqu1977.github.io/xc-pdf-reader-updates/update.json>
+- 在线更新包：<https://frankqu1977.github.io/xc-pdf-reader-updates/XC_PDF_Reader_1.2.399.zip>
+- 安装版 / 便携版：由本地 `bin\Publish` 构建产物分发，本仓库不提供 GitHub Release 下载。
 
 ---
 
@@ -90,13 +91,13 @@ XC PDF Reader 把阅读、检索、批注、表单、OCR、翻译和打印放进
 
 ### 安装版
 
-1. 下载 `XC_PDF_Reader_1.2.399_Setup.exe`。
+1. 获取 `XC_PDF_Reader_1.2.399_Setup.exe` 并运行安装向导。
 2. 运行安装向导，按需勾选桌面快捷方式。
 3. 安装前会检测 .NET Framework 4.8.1；已有实例运行时，安装程序会提示关闭。
 
 ### 便携版
 
-1. 下载 `XC_PDF_Reader_1.2.399_Portable_Net481.zip` 并解压到固定目录。
+1. 获取 `XC_PDF_Reader_1.2.399_Portable_Net481.zip` 并解压到固定目录。
 2. 运行 `XC PDF Reader.exe`。
 3. 不要直接从压缩包的临时视图运行，否则在线更新只会写入临时目录。
 
